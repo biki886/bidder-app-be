@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/biki886/bidder-app-be/issues"
   },
-  "homepage": "https://github.com/biki886/bidder-app-be#readme"
+  "homepage": "https://github.com/biki886/bidder-app-be#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
